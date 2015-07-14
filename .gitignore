@@ -1,0 +1,14 @@
+*~
+*.cma
+*.cmo
+*.cmi
+generate_types
+generate_types.byte
+generate_types.c
+generated_bindings.ml
+generated_bindings_stubs.c
+generated_bindings_stubs.o
+generated_types.ml
+*.byte
+dllbindings.so
+libbindings.a
